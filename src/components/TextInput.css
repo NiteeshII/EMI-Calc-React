@@ -1,0 +1,8 @@
+.Textinput-container {
+  width: 100%;
+}
+
+.Textinput-container > input {
+  width: 100%;
+  margin-bottom: 0.5rem;
+}

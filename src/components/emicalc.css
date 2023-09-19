@@ -1,0 +1,29 @@
+.emiCalc-container {
+  width: 100%;
+}
+
+.emiCalc-container > h1 {
+  text-align: center;
+}
+
+.down-payment,
+.total-amount {
+  margin: 10px;
+}
+
+.down-payment > span,
+.total-amount > span {
+  display: inline-block;
+  margin-bottom: 10px;
+  border-bottom: 1px solid;
+}
+
+.tenure-buttons {
+  display: flex;
+  justify-content: space-between;
+}
+
+.tenure-buttons .btn {
+  width: 9rem;
+  border-radius: 10px;
+}
